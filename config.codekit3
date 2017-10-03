@@ -901,6 +901,16 @@
 		"oAP": "\/bulma\/docs\/blog.html",
 		"oF": 0
 		},
+	"\/bulma\/docs\/bulma-docs.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/bulma\/docs\/bulma-docs-min.css",
+		"oF": 0,
+		"oS": 3
+		},
 	"\/bulma\/docs\/bulma-docs.sass": {
 		"aP": 0,
 		"bl": 0,

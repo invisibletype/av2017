@@ -9,29 +9,6 @@
 	],
 "creatorBuild": "25900",
 "files": {
-	"\/app.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/app-min.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/app.sass": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 2,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/app.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
 	"\/bulma\/.editorconfig": {
 		"ft": 8192,
 		"oA": 2,
@@ -17124,19 +17101,6 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/bulma\/sass\/base\/_all.sass": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 2,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/bulma\/sass\/base\/_all.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
 	"\/bulma\/sass\/base\/generic.sass": {
 		"aP": 0,
 		"bl": 0,
@@ -17172,19 +17136,6 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "\/bulma\/sass\/base\/minireset.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/bulma\/sass\/components\/_all.sass": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 2,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/bulma\/sass\/components\/_all.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -17358,19 +17309,6 @@
 		"oS": 0,
 		"uL": 1
 		},
-	"\/bulma\/sass\/elements\/_all.sass": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 2,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/bulma\/sass\/elements\/_all.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
 	"\/bulma\/sass\/elements\/box.sass": {
 		"aP": 0,
 		"bl": 0,
@@ -17540,19 +17478,6 @@
 		"oS": 0,
 		"uL": 1
 		},
-	"\/bulma\/sass\/grid\/_all.sass": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 2,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/bulma\/sass\/grid\/_all.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
 	"\/bulma\/sass\/grid\/columns.sass": {
 		"aP": 0,
 		"bl": 0,
@@ -17575,19 +17500,6 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "\/bulma\/sass\/grid\/tiles.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/bulma\/sass\/layout\/_all.sass": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 2,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/bulma\/sass\/layout\/_all.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -17627,19 +17539,6 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "\/bulma\/sass\/layout\/section.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/bulma\/sass\/utilities\/_all.sass": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 2,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/bulma\/sass\/utilities\/_all.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -17722,24 +17621,19 @@
 		"oS": 0,
 		"uL": 1
 		},
-	"\/bulma\/sass\/utilities\/variables.sass": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 2,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/bulma\/sass\/utilities\/variables.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
 	"\/bulma\/test\/sass-compile-tester.sh": {
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/bulma\/test\/sass-compile-tester.sh",
 		"oF": 0
+		},
+	"\/config.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/config-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
 		},
 	"\/index.html": {
 		"ft": 8192,

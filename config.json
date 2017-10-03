@@ -1,0 +1,54 @@
+{
+    "sass_files": [
+        "utilities/initial-variables.sass",
+        "utilities/functions.sass",
+        "utilities/derived-variables.sass",
+        "utilities/animations.sass",
+        "utilities/mixins.sass",
+        "utilities/controls.sass",
+        "base/minireset.sass",
+        "base/generic.sass",
+        "base/helpers.sass",
+        "elements/box.sass",
+        "elements/button.sass",
+        "elements/container.sass",
+        "elements/content.sass",
+        "elements/form.sass",
+        "elements/icon.sass",
+        "elements/image.sass",
+        "elements/notification.sass",
+        "elements/progress.sass",
+        "elements/table.sass",
+        "elements/tag.sass",
+        "elements/title.sass",
+        "elements/other.sass",
+        "components/breadcrumb.sass",
+        "components/card.sass",
+        "components/dropdown.sass",
+        "components/level.sass",
+        "components/media.sass",
+        "components/menu.sass",
+        "components/message.sass",
+        "components/modal.sass",
+        "components/nav.sass",
+        "components/navbar.sass",
+        "components/pagination.sass",
+        "components/panel.sass",
+        "components/tabs.sass",
+        "grid/columns.sass",
+        "grid/tiles.sass",
+        "layout/hero.sass",
+        "layout/section.sass",
+        "layout/footer.sass"
+    ],
+    "variables": {
+        "bulma": {
+            "utilities/initial-variables.sass": {
+                "$black": "#263238"
+            }
+        }
+    },
+    "output_style": "expanded",
+    "download_bundle": "on",
+    "_created": 1507066352
+}

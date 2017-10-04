@@ -1,0 +1,39 @@
+.title
+  font-size: 1.25rem
+  font-weight: 400
+  padding: 12px 0 0 0
+
+
+.home-nav
+  font-size: 4rem
+  font-weight: 100
+  color: $bluegray6
+  max-width: 400px
+  display: inline-block
+  @include tablet
+    font-size: 9rem
+    max-width: 768px
+
+.home-nav a
+  position: relative
+  display: inline-block
+
+.home-nav a 
+  &:hover
+    span
+      position: absolute
+      top: 50%
+      left: 0
+      width: 100%
+      border-top: 4px solid $vermillion    
+      @include tablet
+        border-top: 7px solid $vermillion
+
+.overview
+  text-transform: uppercase
+  letter-spacing: 4.4px
+  display: inline-block
+  max-width: 350px
+  @include tablet
+    display: block
+    max-width: none

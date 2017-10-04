@@ -17069,6 +17069,294 @@
 		"oAP": "\/bulma\/docs\/yarn.lock",
 		"oF": 0
 		},
+	"\/bulma\/fonts\/SylphSans-Black.eot": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/bulma\/fonts\/SylphSans-Black.eot",
+		"oF": 0
+		},
+	"\/bulma\/fonts\/SylphSans-Black.woff": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/bulma\/fonts\/SylphSans-Black.woff",
+		"oF": 0
+		},
+	"\/bulma\/fonts\/SylphSans-Black.woff2": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/bulma\/fonts\/SylphSans-Black.woff2",
+		"oF": 0
+		},
+	"\/bulma\/fonts\/SylphSans-BlackItalic.eot": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/bulma\/fonts\/SylphSans-BlackItalic.eot",
+		"oF": 0
+		},
+	"\/bulma\/fonts\/SylphSans-BlackItalic.woff": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/bulma\/fonts\/SylphSans-BlackItalic.woff",
+		"oF": 0
+		},
+	"\/bulma\/fonts\/SylphSans-BlackItalic.woff2": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/bulma\/fonts\/SylphSans-BlackItalic.woff2",
+		"oF": 0
+		},
+	"\/bulma\/fonts\/SylphSans-Bold.eot": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/bulma\/fonts\/SylphSans-Bold.eot",
+		"oF": 0
+		},
+	"\/bulma\/fonts\/SylphSans-Bold.woff": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/bulma\/fonts\/SylphSans-Bold.woff",
+		"oF": 0
+		},
+	"\/bulma\/fonts\/SylphSans-Bold.woff2": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/bulma\/fonts\/SylphSans-Bold.woff2",
+		"oF": 0
+		},
+	"\/bulma\/fonts\/SylphSans-BoldItalic.eot": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/bulma\/fonts\/SylphSans-BoldItalic.eot",
+		"oF": 0
+		},
+	"\/bulma\/fonts\/SylphSans-BoldItalic.woff": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/bulma\/fonts\/SylphSans-BoldItalic.woff",
+		"oF": 0
+		},
+	"\/bulma\/fonts\/SylphSans-BoldItalic.woff2": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/bulma\/fonts\/SylphSans-BoldItalic.woff2",
+		"oF": 0
+		},
+	"\/bulma\/fonts\/SylphSans-ExtraBold.eot": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/bulma\/fonts\/SylphSans-ExtraBold.eot",
+		"oF": 0
+		},
+	"\/bulma\/fonts\/SylphSans-ExtraBold.woff": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/bulma\/fonts\/SylphSans-ExtraBold.woff",
+		"oF": 0
+		},
+	"\/bulma\/fonts\/SylphSans-ExtraBold.woff2": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/bulma\/fonts\/SylphSans-ExtraBold.woff2",
+		"oF": 0
+		},
+	"\/bulma\/fonts\/SylphSans-ExtraBoldItalic.eot": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/bulma\/fonts\/SylphSans-ExtraBoldItalic.eot",
+		"oF": 0
+		},
+	"\/bulma\/fonts\/SylphSans-ExtraBoldItalic.woff": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/bulma\/fonts\/SylphSans-ExtraBoldItalic.woff",
+		"oF": 0
+		},
+	"\/bulma\/fonts\/SylphSans-ExtraBoldItalic.woff2": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/bulma\/fonts\/SylphSans-ExtraBoldItalic.woff2",
+		"oF": 0
+		},
+	"\/bulma\/fonts\/SylphSans-ExtraLight.eot": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/bulma\/fonts\/SylphSans-ExtraLight.eot",
+		"oF": 0
+		},
+	"\/bulma\/fonts\/SylphSans-ExtraLight.woff": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/bulma\/fonts\/SylphSans-ExtraLight.woff",
+		"oF": 0
+		},
+	"\/bulma\/fonts\/SylphSans-ExtraLight.woff2": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/bulma\/fonts\/SylphSans-ExtraLight.woff2",
+		"oF": 0
+		},
+	"\/bulma\/fonts\/SylphSans-ExtraLightItalic.eot": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/bulma\/fonts\/SylphSans-ExtraLightItalic.eot",
+		"oF": 0
+		},
+	"\/bulma\/fonts\/SylphSans-ExtraLightItalic.woff": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/bulma\/fonts\/SylphSans-ExtraLightItalic.woff",
+		"oF": 0
+		},
+	"\/bulma\/fonts\/SylphSans-ExtraLightItalic.woff2": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/bulma\/fonts\/SylphSans-ExtraLightItalic.woff2",
+		"oF": 0
+		},
+	"\/bulma\/fonts\/SylphSans-Light.eot": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/bulma\/fonts\/SylphSans-Light.eot",
+		"oF": 0
+		},
+	"\/bulma\/fonts\/SylphSans-Light.woff": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/bulma\/fonts\/SylphSans-Light.woff",
+		"oF": 0
+		},
+	"\/bulma\/fonts\/SylphSans-Light.woff2": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/bulma\/fonts\/SylphSans-Light.woff2",
+		"oF": 0
+		},
+	"\/bulma\/fonts\/SylphSans-LightItalic.eot": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/bulma\/fonts\/SylphSans-LightItalic.eot",
+		"oF": 0
+		},
+	"\/bulma\/fonts\/SylphSans-LightItalic.woff": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/bulma\/fonts\/SylphSans-LightItalic.woff",
+		"oF": 0
+		},
+	"\/bulma\/fonts\/SylphSans-LightItalic.woff2": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/bulma\/fonts\/SylphSans-LightItalic.woff2",
+		"oF": 0
+		},
+	"\/bulma\/fonts\/SylphSans-Regular.eot": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/bulma\/fonts\/SylphSans-Regular.eot",
+		"oF": 0
+		},
+	"\/bulma\/fonts\/SylphSans-Regular.woff": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/bulma\/fonts\/SylphSans-Regular.woff",
+		"oF": 0
+		},
+	"\/bulma\/fonts\/SylphSans-Regular.woff2": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/bulma\/fonts\/SylphSans-Regular.woff2",
+		"oF": 0
+		},
+	"\/bulma\/fonts\/SylphSans-Regularitalic.eot": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/bulma\/fonts\/SylphSans-Regularitalic.eot",
+		"oF": 0
+		},
+	"\/bulma\/fonts\/SylphSans-Regularitalic.woff": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/bulma\/fonts\/SylphSans-Regularitalic.woff",
+		"oF": 0
+		},
+	"\/bulma\/fonts\/SylphSans-Regularitalic.woff2": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/bulma\/fonts\/SylphSans-Regularitalic.woff2",
+		"oF": 0
+		},
+	"\/bulma\/fonts\/SylphSans-SemiBold.eot": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/bulma\/fonts\/SylphSans-SemiBold.eot",
+		"oF": 0
+		},
+	"\/bulma\/fonts\/SylphSans-SemiBold.woff": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/bulma\/fonts\/SylphSans-SemiBold.woff",
+		"oF": 0
+		},
+	"\/bulma\/fonts\/SylphSans-SemiBold.woff2": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/bulma\/fonts\/SylphSans-SemiBold.woff2",
+		"oF": 0
+		},
+	"\/bulma\/fonts\/SylphSans-SemiBoldItalic.eot": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/bulma\/fonts\/SylphSans-SemiBoldItalic.eot",
+		"oF": 0
+		},
+	"\/bulma\/fonts\/SylphSans-SemiBoldItalic.woff": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/bulma\/fonts\/SylphSans-SemiBoldItalic.woff",
+		"oF": 0
+		},
+	"\/bulma\/fonts\/SylphSans-SemiBoldItalic.woff2": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/bulma\/fonts\/SylphSans-SemiBoldItalic.woff2",
+		"oF": 0
+		},
+	"\/bulma\/fonts\/SylphSans-Thin.eot": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/bulma\/fonts\/SylphSans-Thin.eot",
+		"oF": 0
+		},
+	"\/bulma\/fonts\/SylphSans-Thin.woff": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/bulma\/fonts\/SylphSans-Thin.woff",
+		"oF": 0
+		},
+	"\/bulma\/fonts\/SylphSans-Thin.woff2": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/bulma\/fonts\/SylphSans-Thin.woff2",
+		"oF": 0
+		},
+	"\/bulma\/fonts\/SylphSans-ThinItalic.eot": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/bulma\/fonts\/SylphSans-ThinItalic.eot",
+		"oF": 0
+		},
+	"\/bulma\/fonts\/SylphSans-ThinItalic.woff": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/bulma\/fonts\/SylphSans-ThinItalic.woff",
+		"oF": 0
+		},
+	"\/bulma\/fonts\/SylphSans-ThinItalic.woff2": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/bulma\/fonts\/SylphSans-ThinItalic.woff2",
+		"oF": 0
+		},
 	"\/bulma\/LICENSE": {
 		"ft": 8192,
 		"oA": 2,
@@ -17309,6 +17597,19 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"\/bulma\/sass\/custom.sass": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 2,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/bulma\/sass\/custom.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
 	"\/bulma\/sass\/elements\/box.sass": {
 		"aP": 0,
 		"bl": 0,
@@ -17474,6 +17775,19 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "\/bulma\/sass\/elements\/title.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/bulma\/sass\/fonts.sass": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 2,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/bulma\/sass\/fonts.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1

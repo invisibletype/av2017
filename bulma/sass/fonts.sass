@@ -1,0 +1,147 @@
+=font-face($font-family, $file-path, $font-weight, $font-style)
+  @font-face 
+    font-family: $font-family
+    src: url('#{$file-path}.eot')
+    src: url('#{$file-path}.eot?#iefix') format('embedded-opentype'), url('#{$file-path}.woff') format('woff'), url('#{$file-path}.ttf') format('truetype')
+    font-weight: $font-weight
+    font-style: $font-style
+  
+
+
+
+/* Sylph Sans */
+@include font-face(SylphSans, '../fonts/SylphSans-Black', 800, normal)
+@include font-face(SylphSans, '../fonts/SylphSans-BlackItalic', 800, italic)
+@include font-face(SylphSans, '../fonts/SylphSans-ExtraBold', 700, normal)
+@include font-face(SylphSans, '../fonts/SylphSans-ExtraBoldItalic', 700, italic)
+@include font-face(SylphSans, '../fonts/SylphSans-Bold', 600, normal)
+@include font-face(SylphSans, '../fonts/SylphSans-BoldItalic', 600, italic)
+@include font-face(SylphSans, '../fonts/SylphSans-SemiBold', 500, normal)
+@include font-face(SylphSans, '../fonts/SylphSans-SemiBoldItalic', 500, italic)
+@include font-face(SylphSans, '../fonts/SylphSans-Regular', 400, normal)
+@include font-face(SylphSans, '../fonts/SylphSans-RegularItalic', 400, italic)
+@include font-face(SylphSans, '../fonts/SylphSans-Light', 300, normal)
+@include font-face(SylphSans, '../fonts/SylphSans-LightItalic', 300, italic)
+@include font-face(SylphSans, '../fonts/SylphSans-ExtraLight', 200, normal);
+@include font-face(SylphSans, '../fonts/SylphSans-ExtraLightItalic', 200, italic)
+@include font-face(SylphSans, '../fonts/SylphSans-Thin', 100, normal)
+@include font-face(SylphSans, '../fonts/SylphSans-ThinItalic', 100, italic)
+
+=SylphSansBlack
+  font-family: 'SylphSans', arial, sans-serif
+  font-weight: 800
+  font-style: normal
+
+=SylphSansBlackItalic
+  font-family: 'SylphSans', arial, sans-serif
+  font-weight: 800; font-style: italic
+
+=SylphSansExtraBold 
+  font-family: 'SylphSans', arial, sans-serif
+  font-weight: 700; font-style: normal
+
+=SylphSansExtraBoldItalic 
+  font-family: 'SylphSans', arial, sans-serif
+  font-weight: 700; font-style: italic
+
+=SylphSansBold 
+  font-family: 'SylphSans', arial, sans-serif
+  font-weight: 600; font-style: normal
+
+=SylphSansBoldItalic 
+  font-family: 'SylphSans', arial, sans-serif
+  font-weight: 600; font-style: italic
+
+=SylphSansSemiBold 
+  font-family: 'SylphSans', arial, sans-serif
+  font-weight: 500; font-style: normal
+
+=SylphSansSemiBoldItalic 
+  font-family: 'SylphSans', arial, sans-serif
+  font-weight: 500; font-style: italic
+
+=SylphSansRegular 
+  font-family: 'SylphSans', arial, sans-serif
+  font-weight: 400; font-style: normal
+
+=SylphSansRegularItalic 
+  font-family: 'SylphSans', arial, sans-serif
+  font-weight: 400; font-style: italic
+
+=SylphSansLight 
+  font-family: 'SylphSans', arial, sans-serif
+  font-weight: 300; font-style: normal
+
+=SylphSansLightItalic 
+  font-family: 'SylphSans', arial, sans-serif
+  font-weight: 300; font-style: italic
+
+=SylphSansExtraLight 
+  font-family: 'SylphSans', arial, sans-serif
+  font-weight: 200; font-style: normal
+
+=SylphSansExtraLightItalic 
+  font-family: 'SylphSans', arial, sans-serif
+  font-weight: 200; font-style: italic
+
+=SylphSansThin 
+  font-family: 'SylphSans', arial, sans-serif
+  font-weight: 100; font-style: normal
+
+=SylphSansThinItalic 
+  font-family: 'SylphSans', arial, sans-serif
+  font-weight: 100; font-style: italic
+
+.SylphSansBlack 
+  @include SylphSansBlack
+
+.SylphSansBlackItalic 
+  @include SylphSansBlackItalic
+
+
+.SylphSansExtraBold 
+  @include SylphSansExtraBold
+
+.SylphSansExtraBoldItalic 
+  @include SylphSansExtraBoldItalic
+
+
+.SylphSansBold 
+  @include SylphSansBold
+
+.SylphSansBoldItalic 
+  @include SylphSansBoldItalic
+
+
+.SylphSansSemiBold 
+  @include SylphSansSemiBold
+
+.SylphSansSemiBoldItalic 
+  @include SylphSansSemiBoldItalic
+
+
+.SylphSansRegular 
+  @include SylphSansRegular
+
+.SylphSansRegularItalic 
+  @include SylphSansRegularItalic
+
+.SylphSansLight 
+  @include SylphSansLight
+
+.SylphSansLightItalic 
+  @include SylphSansLightItalic
+
+
+.SylphSansExtraLight 
+  @include SylphSansExtraLight
+
+.SylphSansExtraLightItalic 
+  @include SylphSansExtraLightItalic
+
+
+.SylphSansThin 
+  @include SylphSansThin
+
+.SylphSansThinItalic 
+  @include SylphSansThinItalic

@@ -9,6 +9,12 @@
 	],
 "creatorBuild": "25900",
 "files": {
+	"\/about.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/about.html",
+		"oF": 0
+		},
 	"\/bulma\/.editorconfig": {
 		"ft": 8192,
 		"oA": 2,
@@ -17949,16 +17955,366 @@
 		"oO": 0,
 		"oS": 1
 		},
+	"\/img\/arlo-vance-logo.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/img\/arlo-vance-logo.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/img\/clients\/cotopaxi-questival\/cotopaxi-questival-app-web-social.jpg": {
+		"ft": 16384,
+		"iS": 235774,
+		"oA": 0,
+		"oAP": "\/img\/clients\/cotopaxi-questival\/cotopaxi-questival-app-web-social.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/clients\/cotopaxi-questival\/cotopaxi-questival-feature.jpg": {
+		"ft": 16384,
+		"iS": 234481,
+		"oA": 0,
+		"oAP": "\/img\/clients\/cotopaxi-questival\/cotopaxi-questival-feature.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/clients\/cotopaxi-questival\/cotopaxi-questival-group-mask.jpg": {
+		"ft": 16384,
+		"iS": 328092,
+		"oA": 0,
+		"oAP": "\/img\/clients\/cotopaxi-questival\/cotopaxi-questival-group-mask.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/clients\/cotopaxi-questival\/cotopaxi-questival-group-stage.jpg": {
+		"ft": 16384,
+		"iS": 328562,
+		"oA": 0,
+		"oAP": "\/img\/clients\/cotopaxi-questival\/cotopaxi-questival-group-stage.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/clients\/cotopaxi-questival\/cotopaxi-questival-logo-1.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/img\/clients\/cotopaxi-questival\/cotopaxi-questival-logo-1.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/img\/clients\/cotopaxi-questival\/cotopaxi-questival-logo-2.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/img\/clients\/cotopaxi-questival\/cotopaxi-questival-logo-2.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/img\/clients\/dc-shoes\/dc-shoes-pj-ladd-cards-1.jpg": {
+		"ft": 16384,
+		"iS": 104354,
+		"oA": 0,
+		"oAP": "\/img\/clients\/dc-shoes\/dc-shoes-pj-ladd-cards-1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/clients\/dc-shoes\/dc-shoes-pj-ladd-cards-2.jpg": {
+		"ft": 16384,
+		"iS": 78102,
+		"oA": 0,
+		"oAP": "\/img\/clients\/dc-shoes\/dc-shoes-pj-ladd-cards-2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/clients\/dc-shoes\/dc-shoes-pj-ladd-cards-3.jpg": {
+		"ft": 16384,
+		"iS": 69524,
+		"oA": 0,
+		"oAP": "\/img\/clients\/dc-shoes\/dc-shoes-pj-ladd-cards-3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/clients\/dc-shoes\/dc-shoes-pj-ladd-feature.jpg": {
+		"ft": 16384,
+		"iS": 83161,
+		"oA": 0,
+		"oAP": "\/img\/clients\/dc-shoes\/dc-shoes-pj-ladd-feature.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/clients\/dc-shoes\/dc-shoes-pj-ladd-thumb.jpg": {
+		"ft": 16384,
+		"iS": 107913,
+		"oA": 0,
+		"oAP": "\/img\/clients\/dc-shoes\/dc-shoes-pj-ladd-thumb.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/img\/clients\/fender-guitars\/fender-guitars-ad-single.jpg": {
+		"ft": 16384,
+		"iS": 116553,
+		"oA": 0,
+		"oAP": "\/img\/clients\/fender-guitars\/fender-guitars-ad-single.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/clients\/fender-guitars\/fender-guitars-ad-spread.jpg": {
+		"ft": 16384,
+		"iS": 172105,
+		"oA": 0,
+		"oAP": "\/img\/clients\/fender-guitars\/fender-guitars-ad-spread.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/clients\/fender-guitars\/fender-guitars-book-cover.jpg": {
+		"ft": 16384,
+		"iS": 100472,
+		"oA": 0,
+		"oAP": "\/img\/clients\/fender-guitars\/fender-guitars-book-cover.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/clients\/fender-guitars\/fender-guitars-book-guts.jpg": {
+		"ft": 16384,
+		"iS": 817876,
+		"oA": 0,
+		"oAP": "\/img\/clients\/fender-guitars\/fender-guitars-book-guts.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/clients\/fender-guitars\/fender-guitars-feature.jpg": {
+		"ft": 16384,
+		"iS": 182570,
+		"oA": 0,
+		"oAP": "\/img\/clients\/fender-guitars\/fender-guitars-feature.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/clients\/fender-guitars\/fender-guitars-social.jpg": {
+		"ft": 16384,
+		"iS": 141517,
+		"oA": 0,
+		"oAP": "\/img\/clients\/fender-guitars\/fender-guitars-social.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/clients\/fender-guitars\/fender-guitars-web.jpg": {
+		"ft": 16384,
+		"iS": 120507,
+		"oA": 0,
+		"oAP": "\/img\/clients\/fender-guitars\/fender-guitars-web.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/clients\/harvard-university\/harvard-university-case-books.jpg": {
+		"ft": 16384,
+		"iS": 1128512,
+		"oA": 0,
+		"oAP": "\/img\/clients\/harvard-university\/harvard-university-case-books.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/clients\/harvard-university\/harvard-university-feature.jpg": {
+		"ft": 16384,
+		"iS": 182877,
+		"oA": 0,
+		"oAP": "\/img\/clients\/harvard-university\/harvard-university-feature.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/clients\/remity\/remity-booklet.jpg": {
+		"ft": 16384,
+		"iS": 368695,
+		"oA": 0,
+		"oAP": "\/img\/clients\/remity\/remity-booklet.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/clients\/remity\/remity-feature.jpg": {
+		"ft": 16384,
+		"iS": 174032,
+		"oA": 0,
+		"oAP": "\/img\/clients\/remity\/remity-feature.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/clients\/remity\/remity-logo.jpg": {
+		"ft": 16384,
+		"iS": 26157,
+		"oA": 0,
+		"oAP": "\/img\/clients\/remity\/remity-logo.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/clients\/remity\/remity-packaging-bottles.jpg": {
+		"ft": 16384,
+		"iS": 68855,
+		"oA": 0,
+		"oAP": "\/img\/clients\/remity\/remity-packaging-bottles.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/clients\/remity\/remity-packaging-box-open.jpg": {
+		"ft": 16384,
+		"iS": 162127,
+		"oA": 0,
+		"oAP": "\/img\/clients\/remity\/remity-packaging-box-open.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/clients\/remity\/remity-packaging-boxes.jpg": {
+		"ft": 16384,
+		"iS": 58925,
+		"oA": 0,
+		"oAP": "\/img\/clients\/remity\/remity-packaging-boxes.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/clients\/remity\/remity-packaging-sachets.jpg": {
+		"ft": 16384,
+		"iS": 165673,
+		"oA": 0,
+		"oAP": "\/img\/clients\/remity\/remity-packaging-sachets.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/clients\/remity\/remity-stationery.jpg": {
+		"ft": 16384,
+		"iS": 32251,
+		"oA": 0,
+		"oAP": "\/img\/clients\/remity\/remity-stationery.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/clients\/remity\/remity-web-home.jpg": {
+		"ft": 16384,
+		"iS": 234571,
+		"oA": 0,
+		"oAP": "\/img\/clients\/remity\/remity-web-home.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/clients\/remity\/remity-web-products.jpg": {
+		"ft": 16384,
+		"iS": 219768,
+		"oA": 0,
+		"oAP": "\/img\/clients\/remity\/remity-web-products.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/clients\/the-grand-america-hotel\/grand-america-web-feature.jpg": {
+		"ft": 16384,
+		"iS": 306961,
+		"oA": 0,
+		"oAP": "\/img\/clients\/the-grand-america-hotel\/grand-america-web-feature.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/clients\/the-grand-america-hotel\/grand-america-web-home.jpg": {
+		"ft": 16384,
+		"iS": 613683,
+		"oA": 0,
+		"oAP": "\/img\/clients\/the-grand-america-hotel\/grand-america-web-home.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/clients\/the-grand-america-hotel\/grand-america-web-interior.jpg": {
+		"ft": 16384,
+		"iS": 302464,
+		"oA": 0,
+		"oAP": "\/img\/clients\/the-grand-america-hotel\/grand-america-web-interior.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/clients\/the-grand-america-hotel\/grand-america-web-responses.jpg": {
+		"ft": 16384,
+		"iS": 892038,
+		"oA": 0,
+		"oAP": "\/img\/clients\/the-grand-america-hotel\/grand-america-web-responses.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/index.html": {
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/index.html",
 		"oF": 0
 		},
-	"\/project-1.html": {
+	"\/play.html": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/project-1.html",
+		"oAP": "\/play.html",
 		"oF": 0
 		},
 	"\/README.md": {
@@ -17983,6 +18339,54 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/think.html",
+		"oF": 0
+		},
+	"\/think\/active-vs-passive-thinking.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/think\/active-vs-passive-thinking.html",
+		"oF": 0
+		},
+	"\/work.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/work.html",
+		"oF": 0
+		},
+	"\/work\/cotopaxi-questival.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/work\/cotopaxi-questival.html",
+		"oF": 0
+		},
+	"\/work\/dc-shoes.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/work\/dc-shoes.html",
+		"oF": 0
+		},
+	"\/work\/fender-guitars.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/work\/fender-guitars.html",
+		"oF": 0
+		},
+	"\/work\/harvard-university.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/work\/harvard-university.html",
+		"oF": 0
+		},
+	"\/work\/remity.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/work\/remity.html",
+		"oF": 0
+		},
+	"\/work\/the-grand-america-hotel.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/work\/the-grand-america-hotel.html",
 		"oF": 0
 		}
 	},

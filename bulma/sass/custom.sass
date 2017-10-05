@@ -1,8 +1,35 @@
-.title
-  font-size: 1.25rem
-  font-weight: 400
-  padding: 12px 0 0 0
 
+.is-paddingless-top
+  padding-top: 0 !important
+
+.is-paddingless-bottom
+  padding-bottom: 0 !important
+
+.is-paddingless-left
+  padding-left: 0 !important
+
+.is-paddingless-right
+  padding-right: 0 !important
+
+.is-padding-top50
+  padding-top: 50% !important
+
+.is-padding-bottom50
+  padding-bottom: 50% !important
+
+.has-padding-mobile
+  padding-left: 1.5rem
+  @include desktop
+    padding-left: 0
+
+.is-smallcaps
+  font-variant-caps: all-small-caps
+  -moz-font-feature-settings: "c2sc", "smcp"
+  -webkit-font-feature-settings: "c2sc", "smcp"
+  font-feature-settings: "c2sc", "smcp"
+
+.is-indented
+  text-indent: 1.5rem
 
 .home-nav
   font-size: 4rem
@@ -17,8 +44,6 @@
 .home-nav a
   position: relative
   display: inline-block
-
-.home-nav a 
   &:hover
     span
       position: absolute
@@ -29,6 +54,19 @@
       @include tablet
         border-top: 7px solid $vermillion
 
+.follow-nav a
+  position: relative
+  font-size: $size-4
+  color: $bluegray6
+  &:hover, &.active
+    span
+      position: absolute
+      top: 50%
+      left: 0
+      width: 100%
+      border-top: 2px solid $vermillion    
+
+
 .overview
   text-transform: uppercase
   letter-spacing: 4.4px
@@ -37,3 +75,42 @@
   @include tablet
     display: block
     max-width: none
+
+.title
+  font-size: $size-5
+  padding: .75rem 0 .75rem 1rem
+  font-weight: 400
+  @include desktop
+    padding-left: 0
+
+.article-title
+  font-size: $size-1
+  font-weight: 200
+  text-decoration: none !important
+  line-height: 3rem
+
+.caption
+  font-size: $size-6
+  line-height: 3rem
+  text-transform: uppercase
+  color: $bluegray4
+  letter-spacing: 2px
+
+.capability
+  padding-left: 1rem
+
+.tile
+  min-height: 15rem
+
+.is-blog
+  padding: 4.25rem 2.5rem 1.25rem 1.5rem
+
+.footer
+  background-color: $bluegray1
+  padding: 3rem 1.5rem 1.5rem 1.5rem;
+  margin-top: 3rem
+
+.footer a
+  color: $white
+  &:hover
+    color: $bluegray5

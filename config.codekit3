@@ -15,6 +15,19 @@
 		"oAP": "\/about.html",
 		"oF": 0
 		},
+	"\/app.sass": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 2,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/app.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
 	"\/bulma\/.editorconfig": {
 		"ft": 8192,
 		"oA": 2,
@@ -18305,6 +18318,36 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/img\/play\/elements.jpg": {
+		"ft": 16384,
+		"iS": 77609,
+		"oA": 0,
+		"oAP": "\/img\/play\/elements.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/play\/laid-lines.jpg": {
+		"ft": 16384,
+		"iS": 46736,
+		"oA": 0,
+		"oAP": "\/img\/play\/laid-lines.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/play\/platonic-solids.jpg": {
+		"ft": 16384,
+		"iS": 98099,
+		"oA": 0,
+		"oAP": "\/img\/play\/platonic-solids.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/index.html": {
 		"ft": 8192,
 		"oA": 2,
@@ -18315,6 +18358,24 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/play.html",
+		"oF": 0
+		},
+	"\/play\/elements.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/play\/elements.html",
+		"oF": 0
+		},
+	"\/play\/laid-lines.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/play\/laid-lines.html",
+		"oF": 0
+		},
+	"\/play\/platonic-solids.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/play\/platonic-solids.html",
 		"oF": 0
 		},
 	"\/README.md": {

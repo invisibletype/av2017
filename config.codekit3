@@ -17960,6 +17960,18 @@
 		"oAP": "\/bulma\/test\/sass-compile-tester.sh",
 		"oF": 0
 		},
+	"\/client-list.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/client-list.html",
+		"oF": 0
+		},
+	"\/colophon.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/colophon.html",
+		"oF": 0
+		},
 	"\/config.json": {
 		"ft": 524288,
 		"oA": 1,
@@ -17977,6 +17989,66 @@
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
+		},
+	"\/img\/clients\/aiga\/aiga-2009-covers.jpg": {
+		"ft": 16384,
+		"iS": 123965,
+		"oA": 0,
+		"oAP": "\/img\/clients\/aiga\/aiga-2009-covers.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/clients\/aiga\/aiga-2009-detail.jpg": {
+		"ft": 16384,
+		"iS": 67426,
+		"oA": 0,
+		"oAP": "\/img\/clients\/aiga\/aiga-2009-detail.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/clients\/aiga\/aiga-2009-entry.jpg": {
+		"ft": 16384,
+		"iS": 83702,
+		"oA": 0,
+		"oAP": "\/img\/clients\/aiga\/aiga-2009-entry.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/clients\/aiga\/aiga-2009-ingots.jpg": {
+		"ft": 16384,
+		"iS": 74158,
+		"oA": 0,
+		"oAP": "\/img\/clients\/aiga\/aiga-2009-ingots.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/clients\/aiga\/aiga-2009-slipcover.jpg": {
+		"ft": 16384,
+		"iS": 100733,
+		"oA": 0,
+		"oAP": "\/img\/clients\/aiga\/aiga-2009-slipcover.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/clients\/aiga\/aiga-2009-thumb.jpg": {
+		"ft": 16384,
+		"iS": 120126,
+		"oA": 0,
+		"oAP": "\/img\/clients\/aiga\/aiga-2009-thumb.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/clients\/cotopaxi-questival\/cotopaxi-questival-app-web-social.jpg": {
 		"ft": 16384,
@@ -18086,6 +18158,36 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
+		"q": 100
+		},
+	"\/img\/clients\/epicure\/epicure-packaging-family.jpg": {
+		"ft": 16384,
+		"iS": 138636,
+		"oA": 0,
+		"oAP": "\/img\/clients\/epicure\/epicure-packaging-family.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/clients\/epicure\/epicure-thumb.jpg": {
+		"ft": 16384,
+		"iS": 184201,
+		"oA": 0,
+		"oAP": "\/img\/clients\/epicure\/epicure-thumb.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/clients\/epicure\/epicure-web-home.jpg": {
+		"ft": 16384,
+		"iS": 181357,
+		"oA": 0,
+		"oAP": "\/img\/clients\/epicure\/epicure-web-home.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"q": 100
 		},
 	"\/img\/clients\/fender-guitars\/fender-guitars-ad-single.jpg": {
@@ -18318,6 +18420,46 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/img\/clients\/verizon\/verizon-illustrations-car.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/img\/clients\/verizon\/verizon-illustrations-car.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/img\/clients\/verizon\/verizon-illustrations-octopus.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/img\/clients\/verizon\/verizon-illustrations-octopus.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/img\/clients\/verizon\/verizon-illustrations-thumb.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/img\/clients\/verizon\/verizon-illustrations-thumb.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/img\/clients\/verizon\/verizon-illustrations-trio.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/img\/clients\/verizon\/verizon-illustrations-trio.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
 	"\/img\/play\/elements.jpg": {
 		"ft": 16384,
 		"iS": 77609,
@@ -18414,6 +18556,12 @@
 		"oAP": "\/work.html",
 		"oF": 0
 		},
+	"\/work\/aiga-100-show-09.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/work\/aiga-100-show-09.html",
+		"oF": 0
+		},
 	"\/work\/cotopaxi-questival.html": {
 		"ft": 8192,
 		"oA": 2,
@@ -18424,6 +18572,12 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/work\/dc-shoes.html",
+		"oF": 0
+		},
+	"\/work\/epicure.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/work\/epicure.html",
 		"oF": 0
 		},
 	"\/work\/fender-guitars.html": {
@@ -18448,6 +18602,12 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/work\/the-grand-america-hotel.html",
+		"oF": 0
+		},
+	"\/work\/verizon.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/work\/verizon.html",
 		"oF": 0
 		}
 	},

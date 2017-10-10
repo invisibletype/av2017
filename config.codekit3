@@ -15,6 +15,16 @@
 		"oAP": "\/about.html",
 		"oF": 0
 		},
+	"\/app.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/app-min.css",
+		"oF": 0,
+		"oS": 3
+		},
 	"\/app.sass": {
 		"aP": 0,
 		"bl": 0,
@@ -18160,6 +18170,16 @@
 		"opt": 1,
 		"q": 100
 		},
+	"\/img\/clients\/dignity-health\/dignity-health-web-home.jpg": {
+		"ft": 16384,
+		"iS": 107774,
+		"oA": 0,
+		"oAP": "\/img\/clients\/dignity-health\/dignity-health-web-home.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/img\/clients\/epicure\/epicure-packaging-family.jpg": {
 		"ft": 16384,
 		"iS": 138636,
@@ -18275,6 +18295,66 @@
 		"iS": 182877,
 		"oA": 0,
 		"oAP": "\/img\/clients\/harvard-university\/harvard-university-feature.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/clients\/intel\/intel-iot-context-1.jpg": {
+		"ft": 16384,
+		"iS": 119144,
+		"oA": 0,
+		"oAP": "\/img\/clients\/intel\/intel-iot-context-1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/clients\/intel\/intel-iot-elements-1.jpg": {
+		"ft": 16384,
+		"iS": 27222,
+		"oA": 0,
+		"oAP": "\/img\/clients\/intel\/intel-iot-elements-1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/clients\/intel\/intel-iot-elements-2.jpg": {
+		"ft": 16384,
+		"iS": 30309,
+		"oA": 0,
+		"oAP": "\/img\/clients\/intel\/intel-iot-elements-2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/clients\/intel\/intel-iot-overview-2.jpg": {
+		"ft": 16384,
+		"iS": 196269,
+		"oA": 0,
+		"oAP": "\/img\/clients\/intel\/intel-iot-overview-2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/clients\/intel\/intel-iot-overview.jpg": {
+		"ft": 16384,
+		"iS": 232565,
+		"oA": 0,
+		"oAP": "\/img\/clients\/intel\/intel-iot-overview.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/clients\/intel\/intel-iot-thumb.jpg": {
+		"ft": 16384,
+		"iS": 88770,
+		"oA": 0,
+		"oAP": "\/img\/clients\/intel\/intel-iot-thumb.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -18415,6 +18495,36 @@
 		"iS": 892038,
 		"oA": 0,
 		"oAP": "\/img\/clients\/the-grand-america-hotel\/grand-america-web-responses.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/clients\/united-way-toronto\/united-way-toronto-thumb.jpg": {
+		"ft": 16384,
+		"iS": 38824,
+		"oA": 0,
+		"oAP": "\/img\/clients\/united-way-toronto\/united-way-toronto-thumb.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/clients\/united-way-toronto\/united-way-toronto-web-donate.jpg": {
+		"ft": 16384,
+		"iS": 85724,
+		"oA": 0,
+		"oAP": "\/img\/clients\/united-way-toronto\/united-way-toronto-web-donate.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/img\/clients\/united-way-toronto\/united-way-toronto-web-home.jpg": {
+		"ft": 16384,
+		"iS": 112473,
+		"oA": 0,
+		"oAP": "\/img\/clients\/united-way-toronto\/united-way-toronto-web-home.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -18580,6 +18690,12 @@
 		"oAP": "\/work\/dc-shoes.html",
 		"oF": 0
 		},
+	"\/work\/dignity-health.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/work\/dignity-health.html",
+		"oF": 0
+		},
 	"\/work\/epicure.html": {
 		"ft": 8192,
 		"oA": 2,
@@ -18598,16 +18714,34 @@
 		"oAP": "\/work\/harvard-university.html",
 		"oF": 0
 		},
+	"\/work\/intel.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/work\/intel.html",
+		"oF": 0
+		},
 	"\/work\/remity.html": {
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/work\/remity.html",
 		"oF": 0
 		},
+	"\/work\/rodan-fields.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/work\/rodan-fields.html",
+		"oF": 0
+		},
 	"\/work\/the-grand-america-hotel.html": {
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/work\/the-grand-america-hotel.html",
+		"oF": 0
+		},
+	"\/work\/united-way-toronto.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/work\/united-way-toronto.html",
 		"oF": 0
 		},
 	"\/work\/verizon.html": {

@@ -103,7 +103,7 @@ button,
 input,
 select,
 textarea {
-  font-family: SylphSans, BlinkMacSystemFont, -apple-system, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif; }
+  font-family: "SylphSans", BlinkMacSystemFont, -apple-system, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif; }
 
 code,
 pre {
@@ -7637,119 +7637,119 @@ label.panel-block {
 
 /* Sylph Sans */
 @font-face {
-  font-family: SylphSans;
+  font-family: "SylphSans";
   src: url("../fonts/SylphSans-Black.eot");
   src: url("../fonts/SylphSans-Black.eot?#iefix") format("embedded-opentype"), url("../fonts/SylphSans-Black.woff") format("woff"), url("../fonts/SylphSans-Black.ttf") format("truetype");
   font-weight: 800;
   font-style: normal; }
 
 @font-face {
-  font-family: SylphSans;
+  font-family: "SylphSans";
   src: url("../fonts/SylphSans-BlackItalic.eot");
   src: url("../fonts/SylphSans-BlackItalic.eot?#iefix") format("embedded-opentype"), url("../fonts/SylphSans-BlackItalic.woff") format("woff"), url("../fonts/SylphSans-BlackItalic.ttf") format("truetype");
   font-weight: 800;
   font-style: italic; }
 
 @font-face {
-  font-family: SylphSans;
+  font-family: "SylphSans";
   src: url("../fonts/SylphSans-ExtraBold.eot");
   src: url("../fonts/SylphSans-ExtraBold.eot?#iefix") format("embedded-opentype"), url("../fonts/SylphSans-ExtraBold.woff") format("woff"), url("../fonts/SylphSans-ExtraBold.ttf") format("truetype");
   font-weight: 700;
   font-style: normal; }
 
 @font-face {
-  font-family: SylphSans;
+  font-family: "SylphSans";
   src: url("../fonts/SylphSans-ExtraBoldItalic.eot");
   src: url("../fonts/SylphSans-ExtraBoldItalic.eot?#iefix") format("embedded-opentype"), url("../fonts/SylphSans-ExtraBoldItalic.woff") format("woff"), url("../fonts/SylphSans-ExtraBoldItalic.ttf") format("truetype");
   font-weight: 700;
   font-style: italic; }
 
 @font-face {
-  font-family: SylphSans;
+  font-family: "SylphSans";
   src: url("../fonts/SylphSans-Bold.eot");
   src: url("../fonts/SylphSans-Bold.eot?#iefix") format("embedded-opentype"), url("../fonts/SylphSans-Bold.woff") format("woff"), url("../fonts/SylphSans-Bold.ttf") format("truetype");
   font-weight: 600;
   font-style: normal; }
 
 @font-face {
-  font-family: SylphSans;
+  font-family: "SylphSans";
   src: url("../fonts/SylphSans-BoldItalic.eot");
   src: url("../fonts/SylphSans-BoldItalic.eot?#iefix") format("embedded-opentype"), url("../fonts/SylphSans-BoldItalic.woff") format("woff"), url("../fonts/SylphSans-BoldItalic.ttf") format("truetype");
   font-weight: 600;
   font-style: italic; }
 
 @font-face {
-  font-family: SylphSans;
+  font-family: "SylphSans";
   src: url("../fonts/SylphSans-SemiBold.eot");
   src: url("../fonts/SylphSans-SemiBold.eot?#iefix") format("embedded-opentype"), url("../fonts/SylphSans-SemiBold.woff") format("woff"), url("../fonts/SylphSans-SemiBold.ttf") format("truetype");
   font-weight: 500;
   font-style: normal; }
 
 @font-face {
-  font-family: SylphSans;
+  font-family: "SylphSans";
   src: url("../fonts/SylphSans-SemiBoldItalic.eot");
   src: url("../fonts/SylphSans-SemiBoldItalic.eot?#iefix") format("embedded-opentype"), url("../fonts/SylphSans-SemiBoldItalic.woff") format("woff"), url("../fonts/SylphSans-SemiBoldItalic.ttf") format("truetype");
   font-weight: 500;
   font-style: italic; }
 
 @font-face {
-  font-family: SylphSans;
+  font-family: "SylphSans";
   src: url("../fonts/SylphSans-Regular.eot");
   src: url("../fonts/SylphSans-Regular.eot?#iefix") format("embedded-opentype"), url("../fonts/SylphSans-Regular.woff") format("woff"), url("../fonts/SylphSans-Regular.ttf") format("truetype");
   font-weight: 400;
   font-style: normal; }
 
 @font-face {
-  font-family: SylphSans;
-  src: url("../fonts/SylphSans-RegularItalic.eot");
-  src: url("../fonts/SylphSans-RegularItalic.eot?#iefix") format("embedded-opentype"), url("../fonts/SylphSans-RegularItalic.woff") format("woff"), url("../fonts/SylphSans-RegularItalic.ttf") format("truetype");
+  font-family: "SylphSans";
+  src: url("../fonts/SylphSans-Regularitalic.eot");
+  src: url("../fonts/SylphSans-Regularitalic.eot?#iefix") format("embedded-opentype"), url("../fonts/SylphSans-Regularitalic.woff") format("woff"), url("../fonts/SylphSans-Regularitalic.ttf") format("truetype");
   font-weight: 400;
   font-style: italic; }
 
 @font-face {
-  font-family: SylphSans;
+  font-family: "SylphSans";
   src: url("../fonts/SylphSans-Light.eot");
   src: url("../fonts/SylphSans-Light.eot?#iefix") format("embedded-opentype"), url("../fonts/SylphSans-Light.woff") format("woff"), url("../fonts/SylphSans-Light.ttf") format("truetype");
   font-weight: 300;
   font-style: normal; }
 
 @font-face {
-  font-family: SylphSans;
+  font-family: "SylphSans";
   src: url("../fonts/SylphSans-LightItalic.eot");
   src: url("../fonts/SylphSans-LightItalic.eot?#iefix") format("embedded-opentype"), url("../fonts/SylphSans-LightItalic.woff") format("woff"), url("../fonts/SylphSans-LightItalic.ttf") format("truetype");
   font-weight: 300;
   font-style: italic; }
 
 @font-face {
-  font-family: SylphSans;
+  font-family: "SylphSans";
   src: url("../fonts/SylphSans-ExtraLight.eot");
   src: url("../fonts/SylphSans-ExtraLight.eot?#iefix") format("embedded-opentype"), url("../fonts/SylphSans-ExtraLight.woff") format("woff"), url("../fonts/SylphSans-ExtraLight.ttf") format("truetype");
   font-weight: 200;
   font-style: normal; }
 
 @font-face {
-  font-family: SylphSans;
+  font-family: "SylphSans";
   src: url("../fonts/SylphSans-ExtraLightItalic.eot");
   src: url("../fonts/SylphSans-ExtraLightItalic.eot?#iefix") format("embedded-opentype"), url("../fonts/SylphSans-ExtraLightItalic.woff") format("woff"), url("../fonts/SylphSans-ExtraLightItalic.ttf") format("truetype");
   font-weight: 200;
   font-style: italic; }
 
 @font-face {
-  font-family: SylphSans;
+  font-family: "SylphSans";
   src: url("../fonts/SylphSans-Thin.eot");
   src: url("../fonts/SylphSans-Thin.eot?#iefix") format("embedded-opentype"), url("../fonts/SylphSans-Thin.woff") format("woff"), url("../fonts/SylphSans-Thin.ttf") format("truetype");
   font-weight: 100;
   font-style: normal; }
 
 @font-face {
-  font-family: SylphSans;
+  font-family: "SylphSans";
   src: url("../fonts/SylphSans-ThinItalic.eot");
   src: url("../fonts/SylphSans-ThinItalic.eot?#iefix") format("embedded-opentype"), url("../fonts/SylphSans-ThinItalic.woff") format("woff"), url("../fonts/SylphSans-ThinItalic.ttf") format("truetype");
   font-weight: 100;
   font-style: italic; }
 
 .SylphSansBlack {
-  font-family: 'SylphSans', arial, sans-serif;
+  font-family: "SylphSans", arial, sans-serif;
   font-weight: 800;
   font-style: normal; }
 
@@ -7828,9 +7828,9 @@ label.panel-block {
   font-weight: 100;
   font-style: italic; }
 
-p {
-  widows: 3;
-  orphans: 3; }
+em {
+  font-weight: normal;
+  font-style: italic; }
 
 .is-paddingless-top {
   padding-top: 0 !important; }
